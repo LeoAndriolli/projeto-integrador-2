@@ -2,9 +2,9 @@
 
 Acesso rápido:
   - [Introdução](./README.md)
-  - [Concepção](./concepcao.md)
-  - [Implementação](./implementacao.md)
-  - [Operação](./operacao.md)
+  - [Concepção](./conceive.md)
+  - [Implementação](./implement.md)
+  - [Operação](./operate.md)
 
 
 

@@ -2,9 +2,9 @@
 
 Acesso rápido:
   - [Introdução](./README.md)
-  - [Concepção](./concepcao.md)
+  - [Concepção](./conceive.md)
   - [Design/Projeto](./design.md)
-  - [Operação](./operacao.md)
+  - [Operação](./operate.md)
 
 
 

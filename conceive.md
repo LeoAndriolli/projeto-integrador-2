@@ -1,13 +1,13 @@
-# Operação do Projeto
+# Concepção do projeto
 
 Acesso rápido:
   - [Introdução](./README.md)
-  - [Concepção](./concepcao.md)
   - [Design/Projeto](./design.md)
-  - [Implementação](./implementacao.md)
+  - [Implementação](./implement.md)
+  - [Operação](./operate.md)
 
 
-
+Definir as necessidades do cliente, considerando tecnologia, estratégia empresarial e regulamentos e desenvolvimento de planos conceituais, técnicos e de negócios.
 
 
 ## Referências
