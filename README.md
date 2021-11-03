@@ -3,7 +3,6 @@
 ### Repositório contendo o desenvolvimento do projeto realizado na disciplina de projeto integrador 2, ministrada no curso de engenharia eletrônica.
 
 ## Acesso rápido:
-  - [Introdução](./introduction.md)
   - [Concepção](./conceive.md)
   - [Design/Projeto](./design.md)
   - [Implementação](./implement.md)
