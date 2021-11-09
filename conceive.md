@@ -47,21 +47,26 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
 <ul>
   <li>Monitoramento:
     <ul>
-      <li>Umidade e temperatura residencial</li>
-      <li>vazamentos de gás no ambiente residencial</li>
-      <li>Focos de fumaças</li>
+      <li>Umidade e temperatura de um jardim</li>
+      <li>Vazamentos de gás no ambiente residencial</li>
+      <li>Disparo de alarme em situação de risco</li>
+      <li>Permitir que o usuário configure os parâmetros do sistema</li>
     </ul>
   </li>
   <li>Controle:
     <ul>
-      <li>Iluminação básica do ambiente residencial</li>
       <li>Abertura e fechamento de janela para ventilação</li>
+      <li>Monitoramento da temperatura e umidade de algum jardim</li>
+      <li>Monitoramento de vazamento de gás em ambiente residencial</li>
     </ul>
   </li>
   <li>Ações:
     <ul>
-      <li>Disparo de alarme em situações de risco</li>
-      <li>Informar usuário de possíveis perigos</li>
+      <li>Disparo de alarme utilizando o buzzer em situações consideradas de risco</li>
+      <li>Caso identificado foco de fumaça verifica se há pessoa no ambiente para fechar ou abrir a janela</li>
+      <li>No caso de alguém se aproximar de um ambiente monitorado com risco dispara o buzzer</li>
+      <li>No caso de vazamento de gás detectado utiliza o servo para para abrir a janela do ambiente</li>
+      <li>Aciona o relé para iniciar a rega automática de algum jardim</li>
     </ul>
   </li>
   <li>Visualização:
@@ -69,6 +74,7 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
       <li>Informar situação interna do sistema através de um display LCD</li>
       <li>Fornecer uma interface rápida utilizando a matriz de LEDs 8x8</li>
       <li>Fornecer padrões sonoros utilizando o buzzer para informar possíveis perigos</li>
+      <li>Utiliza o sensor ultrasônico para ligar ou desligar as interfaces do sistema</li>
     </ul>
   </li>
 </ul>
