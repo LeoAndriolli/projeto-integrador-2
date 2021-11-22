@@ -43,7 +43,7 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
 
 <hr>
 
-### Objetivação Prévia do Projeto
+## Descrição geral de tarefas
 <ul>
   <li>Monitoramento:
     <ul>
@@ -78,3 +78,44 @@ Cada participante da disciplina irá desenvolver o projteto em torno de uma maqu
     </ul>
   </li>
 </ul>
+
+<hr>
+
+### Objetivação Prévia do Projeto
+
+<li>Sistema para monitoramento do jardim</li>
+<p>
+  Séra desenvolvido um sistema responsável por realizar o controle da rega e dos parâmetros de um jardim
+  para isso será utilizado os sensores de temperatura e umidade para realizar as medições dos parâmetros
+  do solo onde o jardim se encontra, utilizando as informações obtidas no solo será realizado o controle
+  da rega do jardim, evidenciando o fato de que o sistema utilizará os dados de temperatura também para
+  auxiliar a decidir a quantidade correta de água a ser utilizada durante a rega, dessa maneira será 
+  possível manter o jardim saudável e economizar na utilização de água.
+</p>
+
+<li>Sistema para controle de vazamento de gás</li>
+<p>
+  Será desenvolvido um sistema para controle de vazamentos de gás no ambiente residencial, assim será utilizado 
+  o sensor de gás em conjunto com o sensor de presença e o buzzer para gerar alertas sonoros e para realizar a
+  abertura das janelas do ambiente no caso de um vazamento de gás detectado.
+</p>
+
+<li>Sistema para controle de incêndios</li>
+<p>
+  No caso de algum incêndio detectado um sistema trabalhará em conjunto com o sensor de fumaça e presença para
+  decidir se as janelas do ambiente devem ser abertas para ventilação ou se devem serem fechadas para evitar maior
+  fluxo de ar.
+</p>
+
+<li>Sistema de alarmes noturno</li>
+<p>
+  Durante o período noturno se alguma pessoa for detectada como um invasor um alarme sonoro será disparado indicando
+  o proprietário de alguma invasão no ambiente residencial.
+</p>
+
+<li>Interface</li>
+<p>
+  Será desenvolvida uma interface para permitir que o usuário visualize os parâmetros internos do sistema e que
+  este possa ter uma visão rápida do funcionamento deste, o sistema também contará com um sensor ultrassônico para
+  saber quando ligar ou desligar as interfaces, economizando assim o consumo de energia.
+</p>
